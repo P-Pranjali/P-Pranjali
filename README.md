@@ -164,13 +164,20 @@ https://github.com/P-Pranjali/payment-integration-system
 - 🌱 Spring Boot Advanced
 - 🐳 Docker
 - ☁️ AWS
-- ⚡ Apache Kafka
 - 🧪 JUnit & Mockito
 - 🏗️ System Design
 - 🔄 CI/CD with GitHub Actions
 
 ---
-
+  
+ ## 💬 Inspirational quotes: 
+ 
+      
+  - 👨‍💻 Small Commits every day lead to big results. 
+           
+    
+ ---
+    
 ## 👀 Profile Views
 
 <p align="center">
@@ -178,7 +185,7 @@ https://github.com/P-Pranjali/payment-integration-system
 </p>
 <!--
 **P-Pranjali/P-Pranjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- ⚡ Apache Kafka
 
 
 Here are some ideas to get you started:
