@@ -114,7 +114,7 @@
 <p align="center">
   <!-- Replace with your badge image URLs -->
    <a href="https://leetcode.com/medal/?showImg=0&id=10513939&isLevel=false">
-    <img src="./assets/leetcode-50-days.png" width="170" alt="LeetCode 50 Days Badge"/>
+    <img src="./assets/50_days_badge_LeetCode.gif" width="170" alt="LeetCode 50 Days Badge"/>
   </a>
 </p>
 
