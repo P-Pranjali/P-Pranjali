@@ -97,6 +97,28 @@
 
 ---
 
+# 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/P-Pranjali/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/P-Pranjali?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<h3 align="center">🏅 LeetCode Badges</h3>
+
+<p align="center">
+  <!-- Replace with your badge image URLs -->
+   <a href="https://leetcode.com/medal/?showImg=0&id=10513939&isLevel=false">
+    <img src="./assets/leetcode-50-days.png" width="170" alt="LeetCode 50 Days Badge"/>
+  </a>
+</p>
+
+---
 
 <!-- <p align="center">
 GitHub Stats
