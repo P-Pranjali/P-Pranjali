@@ -102,7 +102,7 @@
 <br>
 <p>
 <img src="https://img.shields.io/badge/Prompt Engineering-6DB33F?style=for-the-badge&logo=promptengineering&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Copilot-4479A1?style=for-the-badge&logo=copilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codex-009688?style=for-the-badge&logo=codex&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-FF6C37?style=for-the-badge&logo=chatgpt&logoColor=white"/>
  
