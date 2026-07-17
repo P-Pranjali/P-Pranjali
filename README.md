@@ -113,14 +113,14 @@
 
 # 🏆 Coding Profiles
 
-<p align="center">
+ <p align="center">
   <a href="https://leetcode.com/u/P-Pranjali/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
+</p> 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/P-Pranjali?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/P-Pranjali?theme=dark&font=Karma" />
 </p>
 
 <h3 align="center">🏅 LeetCode Badges</h3>
