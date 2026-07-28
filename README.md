@@ -197,6 +197,7 @@ https://github.com/P-Pranjali/payment-integration-system
 
 # 📚 Currently Learning
 
+- 💻 Data Structures & Algorithms (DSA)
 - 🌱 Spring Boot Advanced
 - 🐳 Docker
 - ☁️ AWS
