@@ -111,7 +111,7 @@
 ---
 
 
-# 🏆 Coding Profiles
+# 🏆 Coding Profiles  <h2> <a href="https://github.com/P-Pranjali/LeetCode-Practice">LeetCode-Practice-Repo</h2></a>
 
  <p align="center">
   <a href="https://leetcode.com/u/P-Pranjali/">
@@ -131,6 +131,9 @@
     <img src="./assets/50_days_badge_LeetCode.gif" width="170" alt="LeetCode 50 Days Badge"/>
   </a>
 </p>
+
+
+
 
 ---
 
