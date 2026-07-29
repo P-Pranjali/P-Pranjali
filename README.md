@@ -191,9 +191,27 @@ Spring Boot REST API for payment processing with layered architecture, validatio
 https://github.com/P-Pranjali/payment-integration-system
 
 </td>
+ </tr>
+
+<tr></tr>
 
 
-</tr>
+<td width="50%">
+  
+### 🗓️ Event-Booking-System
+
+A Spring Boot 4 / Java 21 REST API for browsing events and managing bookings, built to practice production-grade backend patterns: layered architecture, JPA entity relationships with N+1 prevention, DTO-based API contracts, centralized exception handling, and (in progress) JWT security, testing with Testcontainers, and Docker deployment.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+🔗 **Repository:**  
+https://github.com/P-Pranjali/event-booking-system
+
+</td>
+
+ 
 </table>
 
 ---
