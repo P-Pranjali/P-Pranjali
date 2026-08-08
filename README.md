@@ -173,7 +173,7 @@ The platform is built using Spring Boot Microservices, Spring Cloud Eureka, API 
 `Java` `Spring Boot` `MongoDB` `REST API`
 
 🔗 **Repository:**  
-https://github.com/P-Pranjali/Ai-Interview-Platform-MongoDb
+https://github.com/P-Pranjali/Ai-Interview-Platform-PrepBuddy
 
 </td>
 
